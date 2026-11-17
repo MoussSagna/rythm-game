@@ -1,0 +1,84 @@
+{
+ "id": "calibration",
+ "title": "Calibrage",
+ "genre": "",
+ "audio": "res://audio/music/calibration.ogg",
+ "bpm": 100,
+ "steps_per_beat": 4,
+ "beats_per_bar": 4,
+ "first_beat_offset": 1.0,
+ "length_steps": 64,
+ "sections": [
+  {
+   "step": 0,
+   "type": "calibration"
+  }
+ ],
+ "cues": [],
+ "notes": [
+  {
+   "step": 0,
+   "type": "tap"
+  },
+  {
+   "step": 4,
+   "type": "tap"
+  },
+  {
+   "step": 8,
+   "type": "tap"
+  },
+  {
+   "step": 12,
+   "type": "tap"
+  },
+  {
+   "step": 16,
+   "type": "tap"
+  },
+  {
+   "step": 20,
+   "type": "tap"
+  },
+  {
+   "step": 24,
+   "type": "tap"
+  },
+  {
+   "step": 28,
+   "type": "tap"
+  },
+  {
+   "step": 32,
+   "type": "tap"
+  },
+  {
+   "step": 36,
+   "type": "tap"
+  },
+  {
+   "step": 40,
+   "type": "tap"
+  },
+  {
+   "step": 44,
+   "type": "tap"
+  },
+  {
+   "step": 48,
+   "type": "tap"
+  },
+  {
+   "step": 52,
+   "type": "tap"
+  },
+  {
+   "step": 56,
+   "type": "tap"
+  },
+  {
+   "step": 60,
+   "type": "tap"
+  }
+ ]
+}

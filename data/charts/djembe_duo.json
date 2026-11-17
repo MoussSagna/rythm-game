@@ -1,0 +1,553 @@
+{
+ "id": "djembe_duo",
+ "title": "Djembé Duo",
+ "genre": "afrobeat",
+ "audio": "res://audio/music/djembe_duo.ogg",
+ "bpm": 108,
+ "steps_per_beat": 4,
+ "beats_per_bar": 4,
+ "first_beat_offset": 0.5,
+ "length_steps": 368,
+ "sections": [
+  {
+   "step": 0,
+   "type": "intro"
+  },
+  {
+   "step": 16,
+   "type": "count"
+  },
+  {
+   "step": 32,
+   "type": "call",
+   "phrase": 0
+  },
+  {
+   "step": 48,
+   "type": "response",
+   "phrase": 0
+  },
+  {
+   "step": 64,
+   "type": "call",
+   "phrase": 1
+  },
+  {
+   "step": 80,
+   "type": "response",
+   "phrase": 1
+  },
+  {
+   "step": 96,
+   "type": "call",
+   "phrase": 2
+  },
+  {
+   "step": 112,
+   "type": "response",
+   "phrase": 2
+  },
+  {
+   "step": 128,
+   "type": "call",
+   "phrase": 3
+  },
+  {
+   "step": 144,
+   "type": "response",
+   "phrase": 3
+  },
+  {
+   "step": 160,
+   "type": "call",
+   "phrase": 4
+  },
+  {
+   "step": 176,
+   "type": "response",
+   "phrase": 4
+  },
+  {
+   "step": 192,
+   "type": "call",
+   "phrase": 5
+  },
+  {
+   "step": 208,
+   "type": "response",
+   "phrase": 5
+  },
+  {
+   "step": 224,
+   "type": "call",
+   "phrase": 6
+  },
+  {
+   "step": 240,
+   "type": "response",
+   "phrase": 6
+  },
+  {
+   "step": 256,
+   "type": "call",
+   "phrase": 7
+  },
+  {
+   "step": 272,
+   "type": "response",
+   "phrase": 7
+  },
+  {
+   "step": 288,
+   "type": "call",
+   "phrase": 8
+  },
+  {
+   "step": 304,
+   "type": "response",
+   "phrase": 8
+  },
+  {
+   "step": 320,
+   "type": "call",
+   "phrase": 9
+  },
+  {
+   "step": 336,
+   "type": "response",
+   "phrase": 9
+  },
+  {
+   "step": 352,
+   "type": "outro"
+  }
+ ],
+ "cues": [
+  {
+   "step": 16,
+   "type": "count",
+   "value": 1
+  },
+  {
+   "step": 20,
+   "type": "count",
+   "value": 2
+  },
+  {
+   "step": 24,
+   "type": "count",
+   "value": 3
+  },
+  {
+   "step": 28,
+   "type": "count",
+   "value": 4
+  },
+  {
+   "step": 32,
+   "type": "lead_hit"
+  },
+  {
+   "step": 36,
+   "type": "lead_hit"
+  },
+  {
+   "step": 40,
+   "type": "lead_hit"
+  },
+  {
+   "step": 44,
+   "type": "lead_hit"
+  },
+  {
+   "step": 64,
+   "type": "lead_hit"
+  },
+  {
+   "step": 68,
+   "type": "lead_hit"
+  },
+  {
+   "step": 72,
+   "type": "lead_hit"
+  },
+  {
+   "step": 76,
+   "type": "lead_hit"
+  },
+  {
+   "step": 96,
+   "type": "lead_hit"
+  },
+  {
+   "step": 100,
+   "type": "lead_hit"
+  },
+  {
+   "step": 104,
+   "type": "lead_hit"
+  },
+  {
+   "step": 106,
+   "type": "lead_hit"
+  },
+  {
+   "step": 108,
+   "type": "lead_hit"
+  },
+  {
+   "step": 128,
+   "type": "lead_hit"
+  },
+  {
+   "step": 134,
+   "type": "lead_hit"
+  },
+  {
+   "step": 136,
+   "type": "lead_hit"
+  },
+  {
+   "step": 140,
+   "type": "lead_hit"
+  },
+  {
+   "step": 160,
+   "type": "lead_hit"
+  },
+  {
+   "step": 163,
+   "type": "lead_hit"
+  },
+  {
+   "step": 166,
+   "type": "lead_hit"
+  },
+  {
+   "step": 168,
+   "type": "lead_hit"
+  },
+  {
+   "step": 172,
+   "type": "lead_hit"
+  },
+  {
+   "step": 192,
+   "type": "lead_hit"
+  },
+  {
+   "step": 195,
+   "type": "lead_hit"
+  },
+  {
+   "step": 198,
+   "type": "lead_hit"
+  },
+  {
+   "step": 200,
+   "type": "lead_hit"
+  },
+  {
+   "step": 204,
+   "type": "lead_hit"
+  },
+  {
+   "step": 224,
+   "type": "lead_hit"
+  },
+  {
+   "step": 227,
+   "type": "lead_hit"
+  },
+  {
+   "step": 230,
+   "type": "lead_hit"
+  },
+  {
+   "step": 234,
+   "type": "lead_hit"
+  },
+  {
+   "step": 236,
+   "type": "lead_hit"
+  },
+  {
+   "step": 258,
+   "type": "lead_hit"
+  },
+  {
+   "step": 260,
+   "type": "lead_hit"
+  },
+  {
+   "step": 263,
+   "type": "lead_hit"
+  },
+  {
+   "step": 266,
+   "type": "lead_hit"
+  },
+  {
+   "step": 268,
+   "type": "lead_hit"
+  },
+  {
+   "step": 288,
+   "type": "lead_hit"
+  },
+  {
+   "step": 291,
+   "type": "lead_hit"
+  },
+  {
+   "step": 294,
+   "type": "lead_hit"
+  },
+  {
+   "step": 297,
+   "type": "lead_hit"
+  },
+  {
+   "step": 300,
+   "type": "lead_hit"
+  },
+  {
+   "step": 302,
+   "type": "lead_hit"
+  },
+  {
+   "step": 320,
+   "type": "lead_hit"
+  },
+  {
+   "step": 323,
+   "type": "lead_hit"
+  },
+  {
+   "step": 326,
+   "type": "lead_hit"
+  },
+  {
+   "step": 328,
+   "type": "lead_hit"
+  },
+  {
+   "step": 330,
+   "type": "lead_hit"
+  },
+  {
+   "step": 332,
+   "type": "lead_hit"
+  },
+  {
+   "step": 334,
+   "type": "lead_hit"
+  },
+  {
+   "step": 352,
+   "type": "lead_hit"
+  }
+ ],
+ "notes": [
+  {
+   "step": 48,
+   "type": "tap"
+  },
+  {
+   "step": 52,
+   "type": "tap"
+  },
+  {
+   "step": 56,
+   "type": "tap"
+  },
+  {
+   "step": 60,
+   "type": "tap"
+  },
+  {
+   "step": 80,
+   "type": "tap"
+  },
+  {
+   "step": 84,
+   "type": "tap"
+  },
+  {
+   "step": 88,
+   "type": "tap"
+  },
+  {
+   "step": 92,
+   "type": "tap"
+  },
+  {
+   "step": 112,
+   "type": "tap"
+  },
+  {
+   "step": 116,
+   "type": "tap"
+  },
+  {
+   "step": 120,
+   "type": "tap"
+  },
+  {
+   "step": 122,
+   "type": "tap"
+  },
+  {
+   "step": 124,
+   "type": "tap"
+  },
+  {
+   "step": 144,
+   "type": "tap"
+  },
+  {
+   "step": 150,
+   "type": "tap"
+  },
+  {
+   "step": 152,
+   "type": "tap"
+  },
+  {
+   "step": 156,
+   "type": "tap"
+  },
+  {
+   "step": 176,
+   "type": "tap"
+  },
+  {
+   "step": 179,
+   "type": "tap"
+  },
+  {
+   "step": 182,
+   "type": "tap"
+  },
+  {
+   "step": 184,
+   "type": "tap"
+  },
+  {
+   "step": 188,
+   "type": "tap"
+  },
+  {
+   "step": 208,
+   "type": "tap"
+  },
+  {
+   "step": 211,
+   "type": "tap"
+  },
+  {
+   "step": 214,
+   "type": "tap"
+  },
+  {
+   "step": 216,
+   "type": "tap"
+  },
+  {
+   "step": 220,
+   "type": "tap"
+  },
+  {
+   "step": 240,
+   "type": "tap"
+  },
+  {
+   "step": 243,
+   "type": "tap"
+  },
+  {
+   "step": 246,
+   "type": "tap"
+  },
+  {
+   "step": 250,
+   "type": "tap"
+  },
+  {
+   "step": 252,
+   "type": "tap"
+  },
+  {
+   "step": 274,
+   "type": "tap"
+  },
+  {
+   "step": 276,
+   "type": "tap"
+  },
+  {
+   "step": 279,
+   "type": "tap"
+  },
+  {
+   "step": 282,
+   "type": "tap"
+  },
+  {
+   "step": 284,
+   "type": "tap"
+  },
+  {
+   "step": 304,
+   "type": "tap"
+  },
+  {
+   "step": 307,
+   "type": "tap"
+  },
+  {
+   "step": 310,
+   "type": "tap"
+  },
+  {
+   "step": 313,
+   "type": "tap"
+  },
+  {
+   "step": 316,
+   "type": "tap"
+  },
+  {
+   "step": 318,
+   "type": "tap"
+  },
+  {
+   "step": 336,
+   "type": "tap"
+  },
+  {
+   "step": 339,
+   "type": "tap"
+  },
+  {
+   "step": 342,
+   "type": "tap"
+  },
+  {
+   "step": 344,
+   "type": "tap"
+  },
+  {
+   "step": 346,
+   "type": "tap"
+  },
+  {
+   "step": 348,
+   "type": "tap"
+  },
+  {
+   "step": 350,
+   "type": "tap"
+  }
+ ]
+}
